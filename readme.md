@@ -10,4 +10,5 @@ They are intended as more or less faithful records of live problem-solving sessi
 
 A couple of these I have lightly annotated after the session, with *After-analysis* which is discussion of the problem itself (the object level, if you will) and also *Meta-analysis*, which is post-mortem on the application of the problem-solving method.
 
+Alexis Gallagher
 
